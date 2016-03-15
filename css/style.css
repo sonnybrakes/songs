@@ -1,0 +1,19 @@
+/*body*/
+body.index {
+  background-color: #CAE1FF;
+}
+body.repertoire {
+  background-color: #CAFFE8;
+}
+body.leader {
+  background-color: #ffe8ca;
+}
+body.schedule {
+  background-color: #ffcae1;
+}
+body.register {
+  background-color: #cafcff;
+}
+body.guestbook {
+  background-color: #e4efff;
+}
